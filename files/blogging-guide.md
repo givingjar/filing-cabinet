@@ -92,7 +92,17 @@ After you have reviewed your own article, commit and push the file to GitHub and
 
 ## Publishing
 
-*todo*
+When you are ready to publish an article, follow these steps:
+
+1. Move the draft file from `_drafts` to `_posts`.
+2. Rename the file to include the publish date (e.g. "2015-12-14-article-title.md").
+3. Verify the article shows up correctly when you run the blog locally.
+4. Commit the article to your repository.
+5. Push your change to the appropriate repository:
+   * If working on a fork or feature branch then push the change to your branch and create a pull request.
+   * If working on master, push the change and notify a web admin by email. Consider using a fork or feature branch for your next article.
+
+Regardless of how you push your change, a web administrator will deploy the change on the next publication cycle.
 
 
 
