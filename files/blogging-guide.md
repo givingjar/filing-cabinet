@@ -113,3 +113,4 @@ Regardless of how you push your change, a web administrator will deploy the chan
 [5]: http://kramdown.gettalong.org/syntax.html "Kramdown Syntax Guide"
 [6]: https://github.com/technical-rex/blog.givingjar.org "blog.givingjar.org repository on GitHub"
 [7]: http://jekyllrb.com/docs/frontmatter/ "Jekyll Front Matter"
+[8]: https://www.grammarly.com/ "Grammarly Spelling and Grammar Tool"
