@@ -1,4 +1,4 @@
-# Giving Jar Social Media Strategy
+# Giving Jar Social Media Guide
 
 One of the early ways Giving Jar can help people discover nonprofits and encourage charitable giving is to provide a regular stream of news about charities and nonprofits. This is also a good way to share progress reports about Giving Jar.
 

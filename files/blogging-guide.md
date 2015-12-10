@@ -1,4 +1,4 @@
-# Giving Jar Blogging Strategy
+# Giving Jar Blogging Guide
 
 In addition to sharing news about nonprofits, Giving Jar creates regular original content and progress reports on the Giving Jar Blog. This content is an early and consistent way to provide direct value to anyone interested in learning about nonprofits and the Giving Jar platform. It is also helps promote nonprofits and charitable giving.
 
@@ -82,11 +82,11 @@ Here's an example of embedding an image in your article:
     [2]: /img/ext/some-image.jpg "Some Image Title"
     [3]: http://imagesource.com "Image Source Title"
 
-Notice how the "Some Image Title" and "Image Source Title" text appears twice. Be consistent about this and someday the blog may support generating the image credits automatically using the reference notation.
+Notice how the "Some Image Title" and "Image Source Title" text appears twice. Be consistent about this and someday the blog may generate the image credits automatically using the reference notation.
 
 ## Draft Review
 
-*todo*
+W
 
 ## Publishing
 
