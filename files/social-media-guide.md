@@ -28,6 +28,8 @@ If you change the schedule in this document, please change it in Buffer as well 
 
 ## Finding Content
 
+When you find content to share, always make sure the article is less than one day old when you queue it up. Also double-check to make sure the article hasn't already been posted or queued!
+
 ### Feed Readers
 
 A good way to gather up a lot of good sources of nonprofit and charitable giving information is to use a feed reader.
