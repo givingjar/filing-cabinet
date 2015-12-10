@@ -28,7 +28,21 @@ If you change the schedule in this document, please change it in Buffer as well 
 
 ## Finding Content
 
-*todo*
+### Feed Readers
+
+A good way to gather up a lot of good sources of nonprofit and charitable giving information is to use a feed reader.
+
+Try out [Feedly][5]. It has a good search tool for discovering sites and collections that are perfect for donors and nonprofits who may be interested in Giving Jar. Look for the "Must-Read Nonprofits" collection for a good source of nonprofit news articles.
+
+### Google Alerts
+
+Giving Jar has created the following [Google Alert][6] feeds as another convenient way to discover news on the web about nonprofits:
+
+* [Google Alert RSS Feed for Charity][7]
+* [Google Alert RSS Feed for Donations][8]
+* [Google Alert RSS Feed for Nonprofits][9]
+
+Use a feed reader to follow these alerts. Alternatively, you can create your own alerts on keywords such as "nonprofit", "charity", "donation", and so on.
 
 ## Writing Content
 
@@ -53,3 +67,8 @@ If you change the schedule in this document, please change it in Buffer as well 
 [2]: https://twitter.com/givingjar "@givingjar on Twitter"
 [3]: https://chrome.google.com/webstore/detail/buffer/noojglkidnpfjbincgijbaiedldjfbhh "Buffer Chrome Extension"
 [4]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
+[5]: http://feedly.com/ "Feedly Feed Reader"
+[6]: https://www.google.com/alerts "Google Alerts Homepage"
+[7]: https://www.google.com/alerts/feeds/13563901852716296435/5406387826721543372 "Google Alert Feed for Charity"
+[8]: https://www.google.com/alerts/feeds/13563901852716296435/465982762232547854 "Google Alert Feed for Donations"
+[9]: https://www.google.com/alerts/feeds/13563901852716296435/17476652701629686177 "Google Alert Feed for Nonprofits"
