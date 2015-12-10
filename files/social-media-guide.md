@@ -32,31 +32,20 @@ If you change the schedule in this document, please change it in Buffer as well 
 
 ## Writing Content
 
-**Be positive!**
-
-Avoid using negative words and phrases and please, please do not link to content that paints nonprofits and charitable giving in a bad way!
-
-**Stick to 140 characters.**
-
-This lets us write material once and post it to all connected accounts without any text getting chopped off.
-
-**Post to all accounts.**
-
-All linked accounts in Buffer should automatically get posted to, but please make sure all accounts are selected before queueing up a new post.
-
-**Always include a link.**
-
-For original Giving Jar content, link to the corresponding website or blog post. For links to external articles, link to the original source of information (e.g. avoid linking to Wikipedia, news aggregators such as Hacker News, etc.).
-
-**Find a good image.**
-
-If the link in the post does not generate a social preview with a good thumbnail then save an image from the linked page and upload it as a custom thumbnail. This will provide a nice eye-catching peek into the linked content.
-
-When there isn't a good image on the linked page, try the "Create an Image" feature in Buffer.
-
-**Find good hashtags.**
-
-The articles we link to can be shared with more than just Giving Jar followers if good hashtags are used. The easiest way to find good hashtags is to do a Twitter search using the title of the linked article.
+* **Be positive!**
+  Avoid using negative words and phrases and please, please do not link to content that paints nonprofits and charitable giving in a bad way!
+* **Stick to 140 characters.**
+  This lets us write material once and post it to all connected accounts without any text getting chopped off.
+* **Post to all accounts.**
+  All linked accounts in Buffer should automatically get posted to, but please make sure all accounts are selected before queueing up a new post.
+* **Always include a link.**
+  For original Giving Jar content, link to the corresponding website or blog post. For links to external articles, link to the original source of information (e.g. avoid linking to Wikipedia, news aggregators such as Hacker News, etc.).
+* **Find a good image.**
+  If the link in the post does not generate a social preview with a good thumbnail then save an image from the linked page and upload it as a custom thumbnail. This will provide a nice eye-catching peek into the linked content. If there isn't a good image on the linked page, try the "Create an Image" feature in Buffer.
+* **Find good hashtags.**
+  The articles we link to can be shared with more than just Giving Jar followers if good hashtags are used. The easiest way to find good hashtags is to do a Twitter search using the title of the linked article.
+* **Reread the post.**
+  Even in as few as 140 characters it is easy to slip up and misspell or phrase something strangely. Reread your post out loud to make sure it sounds great.
 
 
 
