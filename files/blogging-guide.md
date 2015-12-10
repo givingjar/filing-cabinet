@@ -86,7 +86,9 @@ Notice how the "Some Image Title" and "Image Source Title" text appears twice. B
 
 ## Draft Review
 
-W
+When your draft is complete, sleep on it. Come back the next day and read it. Fix any spelling and grammar mistakes ([Grammarly][8] is an excellent tool for catching these, try the Chrome extension). Then read it out loud to yourself. Most people read as if speaking the words in their own head. Writing in a way that sounds good out loud will be that much easier to read in general.
+
+After you have reviewed your own article, commit and push the file to GitHub and ask someone else to review the article. It can be anyone, really, but make sure they're considering the structure of the content, not just spelling and grammar. Discuss the feedback with your reviewer and quickly settle on which suggestions to incorporate.
 
 ## Publishing
 
