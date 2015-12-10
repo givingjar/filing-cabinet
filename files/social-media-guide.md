@@ -51,7 +51,7 @@ Use a feed reader to follow these alerts. Alternatively, you can create your own
 * **Be positive!**
   Avoid using negative words and phrases and please, please do not link to content that paints nonprofits and charitable giving in a bad way!
 * **Stick to 140 characters.**
-  This lets us write material once and post it to all connected accounts without any text getting chopped off.
+  This lets us write material once and post it to all connected accounts without any text getting chopped off. Of course, if you really *want* to write separate blurbs for each account you are welcome to do so!
 * **Post to all accounts.**
   All linked accounts in Buffer should automatically get posted to, but please make sure all accounts are selected before queueing up a new post.
 * **Always include a link.**
