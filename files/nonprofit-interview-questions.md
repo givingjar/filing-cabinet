@@ -24,15 +24,23 @@ The answers to these questions will help someone make an informed decision to do
 1. What is the best way someone can help? (money, supplies, volunteering, etc.)
 2. What other ways can people help or get involved?
 3. When is help needed most?
-4. How a money donation used?
-5. Are donations to your nonprofit tax-deductible?
+4. How is a money donation used?
+5. What percentage donations go to operational expenses?
+6. Are donations to your nonprofit tax-deductible?
+7. What are some of the nonprofit's recent accomplishments?
+8. What exciting news do you have for the future of the nonprofit?
+9. Who is your target donor?
+10. How do the demographics of that target donor affect donations?
 
 ## Questions for Other Nonprofits
 
 1. What are the biggest mistakes you see nonprofits making?
 2. How would you help someone else start a nonprofit?
-3. What makes your nonprofit different from others?
+3. What makes your nonprofit different from others that share the same cause?
 4. Who comes to mind when you think of a successful nonprofit?
+5. What are the biggest challenges a nonprofit faces?
+6. What is one thing that has surprised you about working for a nonprofit?
+7. What percentage of funding does the nonprofit receive from grants?
 
 ## Questions for Giving Jar
 
@@ -40,3 +48,5 @@ The answers to these questions will help someone make an informed decision to do
 2. What books, websites, and other instructional material would you recommend to someone trying to understand nonprofits better?
 3. What are the limiting factors of a strong online presence for nonprofits?
 4. Who are some other nonprofits who may be interested in an interview?
+5. How can a company like Giving Jar make nonprofits easier to discover?
+6. What online fundraising has your nonprofit tried? What were the results?
