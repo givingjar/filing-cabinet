@@ -35,6 +35,8 @@ The answers to these questions will help someone make an informed decision to do
 
 ## Questions for Other Nonprofits
 
+The goal of these questions is to gather advice for other nonprofits and people looking to start nonprofits.
+
 1. What are the biggest mistakes you see nonprofits making?
 2. What is one key step that any nonprofit should do to be successful?
 3. What makes your nonprofit different from others that share the same cause?
@@ -45,8 +47,11 @@ The answers to these questions will help someone make an informed decision to do
 
 ## Questions for Giving Jar
 
+These questions may be useful to more than just Giving Jar, but their purpose is to gain a deeper insight into how nonprofits operate and how Giving Jar can help.
+
 1. How did you get involved with the nonprofit?
-3. What are the limiting factors of a strong online presence for nonprofits?
+2. What are the limiting factors of a strong online presence for nonprofits?
+3. What are the typical ways you spread the word about your nonprofit?
 4. What percentage of funding does the nonprofit receive from grants?
 5. Who are some other nonprofits who may be interested in an interview?
 6. How can a company like Giving Jar make nonprofits easier to discover?
