@@ -48,10 +48,10 @@ Use a feed reader to follow these alerts. Alternatively, you can create your own
 
 ## Writing Content
 
+Here are some general tips when writing headlines for articles shared on social media.
+
 * **Be positive!**
   Avoid using negative words and phrases and please, please do not link to content that paints nonprofits and charitable giving in a bad way!
-* **Stick to 140 characters.**
-  This lets us write material once and post it to all connected accounts without any text getting chopped off. Of course, if you really *want* to write separate blurbs for each account you are welcome to do so!
 * **Post to all accounts.**
   All linked accounts in Buffer should automatically get posted to, but please make sure all accounts are selected before queueing up a new post.
 * **Always include a link.**
@@ -59,9 +59,34 @@ Use a feed reader to follow these alerts. Alternatively, you can create your own
 * **Find a good image.**
   If the link in the post does not generate a social preview with a good thumbnail then save an image from the linked page and upload it as a custom thumbnail. This will provide a nice eye-catching peek into the linked content. If there isn't a good image on the linked page, try the "Create an Image" feature in Buffer.
 * **Find good hashtags.**
-  The articles we link to can be shared with more than just Giving Jar followers if good hashtags are used. The easiest way to find good hashtags is to do a Twitter search using the title of the linked article.
+  The articles we link to can be shared with more than just Giving Jar followers if good hashtags are used. The easiest way to find a good hashtag is search on Twitter using the title of the linked article.
 * **Reread the post.**
-  Even in as few as 140 characters it is easy to slip up and misspell or phrase something strangely. Reread your post out loud to make sure it sounds great.
+  Even in as few as 140 characters it is easy to misspell or phrase something strangely. Read your post out loud to make sure it sounds great.
+
+### Twitter Tips
+
+Buffer will automatically include the title of the article, a link, and a picture. Don't stop there, though. Start by formatting the tweet as follows:
+
+    Article Title - Source http://buff.ly/link
+
+If you can improve upon the title, do it. Feel free to look up the source's Twitter handle and a good hashtag, too.
+
+Here are some examples:
+
+    The Best Charities for Your Donations - Consumer Reports http://buff.ly/1Rk5B0q
+    The Best Apps for Donating Easily via @FortuneMagazine http://http://buff.ly/1OU5Spf
+
+### Facebook Tips
+
+The article preview in Facebook will already include the title, author/source, link, and image. Don't include any of this information in the message portion of the Facebook share.
+
+What is needed in the Facebook post is a little message to highlight something important or especially positive from the article. Read the article and write a short sentence or two about something you took away from the article.
+
+For example:
+
+    "The lists are organized by cause to help you find the right place to donate. The article includes some nice tips to avoid charity scams too."
+    | Best and Worst Charities for Your Donations
+    | ConsumerReports.org
 
 
 
