@@ -58,3 +58,5 @@ These questions may be useful to more than just Giving Jar, but their purpose is
 7. What prevents you from using other online fundraising or donation platforms?
 8. What online fundraising has your nonprofit tried? What were the results?
 9. What questions would you like to ask another nonprofit that weren't asked here?
+10. Where do you or would you go online to learn about or promote your charity?
+11. What vendors do you use to receive donations online?
