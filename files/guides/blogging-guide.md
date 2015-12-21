@@ -75,7 +75,7 @@ Here's an example of embedding an image in your article:
 
     ![Image Alt Text][2]
 
-    Image Credits:
+    ###### Image Credits:
     * "Some Image Title" via [Image Source Title][3]
 
     [1]: http://somesite.com "Some Site Title"
