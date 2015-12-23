@@ -82,6 +82,10 @@ Here's an example of embedding an image in your article:
     [2]: /img/ext/some-image.jpg "Some Image Title"
     [3]: http://imagesource.com "Image Source Title"
 
+If there is only one source of images, you can give credit in one line. Make sure to link to the source.
+
+    ###### Photography by [Photographer Name][4]
+
 Notice how the "Some Image Title" and "Image Source Title" text appears twice. Be consistent about this and someday the blog may generate the image credits automatically using the reference notation.
 
 ## Draft Review
