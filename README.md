@@ -1,13 +1,6 @@
 # Giving Jar Filing Cabinet
 
-This is where Giving Jar keeps all of its "paperwork." It's okay to snoop around,
-all of these files are being made public on purpose.
-
-Feel free to be inspired, make suggestions, adapt it to your own needs, poke holes,
-give thanks, etc. but just so you know, the information here is proprietary to
-[Giving Jar][1] and does not represent or reflect the views or ideas of anyone else.
-
-Please read the [LICENSE file][2] for the formal spiel.
+This is where Giving Jar keeps all of its paperwork. Please read the [LICENSE file][2] for the formal spiel.
 
 
 [1]: http://givingjar.org "Giving Jar"
