@@ -115,6 +115,6 @@ Regardless of how you push your change, a web administrator will deploy the chan
 [3]: http://jekyllrb.com/ "Jekyll Blog Aware Site Generator"
 [4]: http://daringfireball.net/projects/markdown/syntax "Markdown Syntax Guide"
 [5]: http://kramdown.gettalong.org/syntax.html "Kramdown Syntax Guide"
-[6]: https://github.com/technical-rex/blog.givingjar.org "blog.givingjar.org repository on GitHub"
+[6]: https://github.com/givingjar/blog.givingjar.org "blog.givingjar.org repository on GitHub"
 [7]: http://jekyllrb.com/docs/frontmatter/ "Jekyll Front Matter"
 [8]: https://www.grammarly.com/ "Grammarly Spelling and Grammar Tool"
