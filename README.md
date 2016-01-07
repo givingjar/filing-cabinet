@@ -13,4 +13,4 @@ Please read the [LICENSE file][3] for the formal spiel.
 
 [1]: http://givingjar.org "Giving Jar"
 [2]: http://technicalrex.com "Technical Rex, Inc."
-[3]: https://github.com/technical-rex/givingjar-filing-cabinet/blob/master/LICENSE "MIT License"
+[3]: https://github.com/givingjar/filing-cabinet/blob/master/LICENSE "MIT License"
