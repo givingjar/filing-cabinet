@@ -20,7 +20,7 @@ Giving Jar has accounts (or some equivalent) on the following social media sites
 The official posting schedule is managed in Buffer but for quick reference, here it is:
 
 * Twitter
-  * Every day at 11:36 AM
+  * Every day at 10:36 AM
 * Facebook
   * Every day at 9:02 AM
 
@@ -28,23 +28,9 @@ If you change the schedule in this document, please change it in Buffer as well 
 
 ## Finding Content
 
-When you find content to share, always make sure the article is less than one day old when you queue it up. Also double-check to make sure the article hasn't already been posted or queued!
+Giving Jar's social media content is intended to be specifically meaningful to Michigan residents. Find newsworthy examples of giving, special events, and so on around the state of Michigan. Celebrities from Michigan performing charitable deeds typically make great social copy too. Double-check to make sure the article hasn't already been posted or queued!
 
-### Feed Readers
-
-A good way to gather up a lot of good sources of nonprofit and charitable giving information is to use a feed reader.
-
-Try out [Feedly][5]. It has a good search tool for discovering sites and collections that are perfect for donors and nonprofits who may be interested in Giving Jar. Look for the "Must-Read Nonprofits" collection for a good source of nonprofit news articles.
-
-### Google Alerts
-
-Giving Jar has created the following [Google Alert][6] feeds as another convenient way to discover news on the web about nonprofits:
-
-* [Google Alert RSS Feed for Charity][7]
-* [Google Alert RSS Feed for Donations][8]
-* [Google Alert RSS Feed for Nonprofits][9]
-
-Use a feed reader to follow these alerts. Alternatively, you can create your own alerts on keywords such as "nonprofit", "charity", "donation", and so on.
+While it's possible to create [Google Alerts][6] and use a feed reader such as [Feedly][5] to find charity news, there is often so many misleading or entirely missed pockets of news that it's usually easier to perform a search for terms such as "michigan charity" on [Google News][7] or [Bing News][8]. Bing News has the benefit of letting you restrict your search to the past several days and sort by most recent news.
 
 ## Writing Content
 
@@ -67,14 +53,9 @@ Here are some general tips when writing headlines for articles shared on social 
 
 Buffer will automatically include the title of the article, a link, and a picture. Don't stop there, though. Start by formatting the tweet as follows:
 
-    Article Title - Source http://buff.ly/link
+    Article Title or Summary http://buff.ly/link via @Source #MIgives
 
-If you can improve upon the title, do it. Feel free to look up the source's Twitter handle and a good hashtag, too.
-
-Here are some examples:
-
-    The Best Charities for Your Donations - Consumer Reports http://buff.ly/1Rk5B0q
-    The Best Apps for Donating Easily via @FortuneMagazine http://http://buff.ly/1OU5Spf
+Only use the `#MIgives` hashtag if the linked article directly involves Michigan people giving or doing something charitable.
 
 ### Facebook Tips
 
@@ -96,6 +77,5 @@ For example:
 [4]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
 [5]: http://feedly.com/ "Feedly Feed Reader"
 [6]: https://www.google.com/alerts "Google Alerts Homepage"
-[7]: https://www.google.com/alerts/feeds/13563901852716296435/5406387826721543372 "Google Alert Feed for Charity"
-[8]: https://www.google.com/alerts/feeds/13563901852716296435/465982762232547854 "Google Alert Feed for Donations"
-[9]: https://www.google.com/alerts/feeds/13563901852716296435/17476652701629686177 "Google Alert Feed for Nonprofits"
+[7]: https://news.google.com/ "Google News Homepage"
+[8]: http://www.bing.com/news "Bing News Homepage"
