@@ -2,7 +2,39 @@
 
 The goal of these questions is to help understand nonprofits from multiple perspectives. In addition to the basic questions anyone may be interested in, there are a number of questions specifically important to donors, Giving Jar, and other nonprofits/charities.
 
-The actual interview will cover more ground than will appear in the published charity spotlight, but transcripts of the complete interview will be available in the Giving Jar filing cabinet.
+The actual interview will cover more ground than will appear in the published charity spotlight, but the complete interview will be available in the Giving Jar filing cabinet.
+
+## Required Topics
+
+The following sections should appear in every charity spotlight. Make sure these topics are thoroughly covered by the questions asked during every interview.
+
+### 1. Origin Story
+
+This section should answer the "Why" questions about the charity. The purpose of this section is not simply to restate the mission, but to explain a specific problem that the founder(s) identified and felt passionate about addressing.
+
+The origin story can also provide insight into other interesting aspects of the charity, founders, location, etc. that readers may care about.
+
+### 2. Today
+
+Explain all of the programs that the charity uses to implement its mission. When there are too many programs to describe, categorize and generalize the programs and link to a page on the charity's site where more information can be found.
+
+### 3. Big Wins
+
+Victories for a charity may be stories about individuals that have been helped, they might be the aggregated, sheer volume of how much support has been provided, or anything and everything in between. Let the interviewee decide what goes in this section.
+
+### 4. Goals
+
+Charities are always looking for ways to further the progress toward their mission. Goals for charities are very much in the eye of the beholder. One charity may want to operate more efficiently whereas another may want to expand their programs or raise more money.
+
+Goals can also be short-term or long-term. Try to capture a variety of goals and describe them as succinctly as possible.
+
+### 5. Advice for Nonprofits
+
+People running charities are knowledgeable of more than just their charity's mission and operations, they also know tips and tricks about starting and running a nonprofit business. These tips can be invaluable for someone interested in founding a new charity, but they can also be useful to other charities, donors, and volunteers.
+
+### 6. Advice for Donors or Volunteers
+
+This section is dedicated to helping donors and volunteers become more informed in the decisions they make when committing themselves to a cause or charity. The advice can be motivational or it can be gotchas. Whatever advice is offered, try to explore the unique perspective of the charity that would make this advice eye-opening.
 
 ## General Questions
 
