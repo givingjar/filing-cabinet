@@ -29,3 +29,7 @@ We hereby consent to the adoption of the above resolution as if it was adopted a
 
     _________________________ _________________________ __________
     Director Signature        Printed Name              Date
+
+
+    _________________________ _________________________ __________
+    Director Signature        Printed Name              Date
