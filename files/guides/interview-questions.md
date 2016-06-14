@@ -4,6 +4,29 @@ The goal of these questions is to help understand nonprofits from multiple persp
 
 The actual interview will cover more ground than will appear in the published charity spotlight, but the complete interview will be available in the Giving Jar filing cabinet.
 
+## Interview Techniques
+
+Encourage the interviewee to tell a story by using the following lead-in questions.
+
+* *"Tell me when ..."*
+* *"Describe ..."*
+* *"What were the steps that ..."*
+
+Capture the emotion behind the story with these follow-up questions.
+
+* *"How did that make you feel?"*
+* *"It sounds like that made you <emotion>. Could you elaborate on that?"*
+* *"Why is this meaningful to you?"*
+
+Ask someone to reflect on both sides of their story.
+
+* *"Was there ever a time that you felt differently?"*
+* *"When did you view/opinion change?"*
+* *"What would your younger/older self say to you in that situation?"*
+* *"What do you make of that?"*
+
+When someone is telling a story, let them! Avoid interrupting them with your own remarks.
+
 ## Required Topics
 
 The following sections should appear in every charity spotlight. Make sure these topics are thoroughly covered by the questions asked during every interview.
