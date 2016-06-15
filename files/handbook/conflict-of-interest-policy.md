@@ -19,7 +19,9 @@ Any director, principal officer, or member of a committee with governing board d
 A person has a financial interest if the person has, directly or indirectly, through business, investment, or family:
 
 1. An ownership or investment interest in any entity with which the Organization has a transaction or arrangement,
+
 2. A compensation arrangement with the Organization or with any entity or individual with which the Organization has a transaction or arrangement, or
+
 3. A potential ownership or investment interest in, or compensation arrangement with, any entity or individual with which the Organization is negotiating a transaction or arrangement.
 
 Compensation includes direct and indirect remuneration as well as gifts or favors that are not insubstantial.
@@ -41,13 +43,17 @@ After disclosure of the financial interest and all material facts, and after any
 #### 3. Procedures for Addressing the Conflict of Interest
 
 1. An interested person may make a presentation at the governing board or committee meeting, but after the presentation, he/she shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
+
 2. The chairperson of the governing board or committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
+
 3. After exercising due diligence, the governing board or committee shall determine whether the Organization can obtain with reasonable efforts a more advantageous transaction or arrangement from a person or entity that would not give rise to a conflict of interest.
+
 4. If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the governing board or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the Organization's best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination it shall make its decision as to whether to enter into the transaction or arrangement.
 
 #### 4. Violations of the Conflict of Interest Policy
 
 1. If the governing board or committee has reasonable cause to believe a member has failed to disclose actual or possible conflicts of interest, it shall inform the member of the basis for such belief and afford the member an opportunity to explain the alleged failure to disclose.
+
 2. If, after hearing the member's response and after making further investigation as warranted by the circumstances, the governing board or committee determines the member has failed to disclose an actual or possible conflict of interest, it shall take appropriate disciplinary and corrective action.
 
 ## Article IV
@@ -57,6 +63,7 @@ After disclosure of the financial interest and all material facts, and after any
 The minutes of the governing board and all committees with board delegated powers shall contain:
 
 1. The names of the persons who disclosed or otherwise were found to have a financial interest in connection with an actual or possible conflict of interest, the nature of the financial interest, any action taken to determine whether a conflict of interest was present, and the governing board's or committee's decision as to whether a conflict of interest in fact existed.
+
 2. The names of the persons who were present for discussions and votes relating to the transaction or arrangement, the content of the discussion, including any alternatives to the proposed transaction or arrangement, and a record of any votes taken in connection with the proceedings.
 
 ## Article V
@@ -64,7 +71,9 @@ The minutes of the governing board and all committees with board delegated power
 ### Compensation
 
 1. A voting member of the governing board who receives compensation, directly or indirectly, from the Organization for services is precluded from voting on matters pertaining to that member's compensation.
+
 2. A voting member of any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the Organization for services is precluded from voting on matters pertaining to that member's compensation.
+
 3. No voting member of the governing board or any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the Organization, either individually or collectively, is prohibited from providing information to any committee regarding compensation.
 
 ## Article VI
@@ -74,9 +83,10 @@ The minutes of the governing board and all committees with board delegated power
 Each director, principal officer, and member of a committee with governing board delegated powers shall annually sign a statement which affirms such person:
 
 1. Has received a copy of the conflicts of interest policy,
-2. Has read and understands the policy,
-3. Has agreed to comply with the policy, and
-4. Understands the Organization is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
+
+2. Has read and understands the policy, and
+
+3. Has agreed to comply with the policy.
 
 ## Article VII
 
@@ -85,6 +95,7 @@ Each director, principal officer, and member of a committee with governing board
 To ensure the Organization operates in a manner consistent with charitable purposes and does not engage in activities that could jeopardize its tax-exempt status, periodic reviews shall be conducted. The periodic reviews shall, at a minimum, include the following subjects:
 
 1. Whether compensation arrangements and benefits are reasonable, based on competent survey information, and the result of arm's length bargaining.
+
 2. Whether partnerships, joint ventures, and arrangements with management organizations conform to the Organization's written policies, are properly recorded, reflect reasonable investment or payments for goods and services, further charitable purposes and do not result in inurement, impermissible private benefit or in an excess benefit transaction.
 
 ## Article VIII
