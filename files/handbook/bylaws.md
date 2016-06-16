@@ -86,9 +86,9 @@ The Organization shall have no members.
 
 1. All the assets and earnings of the Organization shall be used exclusively for its exempt purposes, including the payment of expenses incidental thereto. No part of any net earnings shall inure to the benefit of any employee of the Organization or be distributed to its Directors, officers, or any private person, except that the Organization shall be empowered to pay reasonable compensation for services rendered and make payments and distributions in furtherance of the purposes set forth in Article II of these bylaws.
 
-2. Notwithstanding any other provision of these bylaws, the Organization will not carry on any activities not permitted by an organization exempt under Section 501(c)(3), Internal Revenue Code, 1986, or the corresponding provision of any future federal law, or organizations whose contributions which are exempt under Section 170(c)(2), Internal Revenue Code, 1986, or the corresponding provision of any future federal law. The Organization shall have no capital stock, pay no dividends, distribute no part of its net income or assets to any Directors, Officers, and private property of the subscribers, Directors or Officers shall not be liable for the debts of the Organization.
+2. Notwithstanding any other provision of these bylaws, the Organization will not carry on any activities not permitted by an organization exempt under Section 501(c)(3), Internal Revenue Code, 1986, or the corresponding provision of any future federal law, or organizations whose contributions are exempt under Section 170(c)(2), Internal Revenue Code, 1986, or the corresponding provision of any future federal law. The Organization shall have no capital stock, pay no dividends, distribute no part of its net income or assets to any Directors, Officers, and private property of the subscribers, Directors or Officers shall not be liable for the debts of the Organization.
 
-3. No substantial part of the Organization’s activity shall be for the carrying on of a campaign of propaganda or otherwise attempting to influence legislation. The Organization shall not participate in any political campaign, will not engage in political campaigns or attempt to influence legislation or interfere with any political campaign on behalf or in opposition to any candidate for public office.
+3. No substantial part of the Organization’s activity shall be for the carrying on of a campaign of propaganda or otherwise attempting to influence legislation. The Organization shall not participate in any political campaign, will not engage in political campaigns or attempt to influence legislation or interfere with any political campaign on behalf of or in opposition to any candidate for public office.
 
 4. In particular, but not without limitation of the generality of the foregoing paragraph, during such time as the Organization may be considered a private foundation as defined by Section 509(a), Internal Revenue Code, 1986, or the corresponding provision of any future federal law, it shall not:
 
@@ -106,27 +106,27 @@ The Organization shall have no members.
 
 ### Contracts, Checks, Deposits and Funds
 
-1. **Contracts.** The Board of Directors may authorize, by general resolution, a Director or Directors, an agent or agents, in addition to persons authorized by these bylaws to enter into any contract on behalf of the Organization.
+1. **Contracts.** The Board of Directors may authorize, by resolution, a Director or Directors, an agent or agents, in addition to persons authorized by these bylaws to enter into any contract on behalf of the Organization.
 
-2. **Checks, Drafts and Orders of Payment.** All checks, drafts, notes, or orders of payment or other evidence of indebtedness issued in the name of the Organization shall be signed by the Officer or Board agent such as the Board of Directors may from time to time designate by general resolution of the Board of Directors.
+2. **Checks, Drafts, and Orders of Payment.** All checks, drafts, notes, orders of payment, or other evidence of indebtedness issued in the name of the Organization shall be signed or otherwise authorized by an Officer or Board agent such as the Board of Directors may from time to time designate by resolution of the Board of Directors.
 
-3. **Deposits.** All funds of the Organization shall be deposited from time to time to the credit of the Organization in such banks, trust companies, of other depositories as the Board of Directors may designate.
+3. **Deposits.** All funds of the Organization shall be deposited from time to time to the credit of the Organization in such banks, trust companies, or other depositories as the Board of Directors may designate.
 
 4. **Gifts.** The Directors, collectively or individually, any officer or designated agent may accept gifts, contributions, bequests, or devise of any property on behalf of the Organization.
 
-5. **Loans.** No Director, Officer or agent shall have the authority, on behalf to the Organization, to enter into a loan or any other contract of indebtedness except by unanimous vote in a specific resolution of the Board of Directors. The authority designated by this provision shall be limited to a single and specific instance.
+5. **Loans.** No Director, Officer or agent shall have the authority, on behalf of the Organization, to enter into a loan or any other contract of indebtedness except by unanimous vote in a resolution of the Board of Directors. The authority designated by this provision shall be limited to a single and specific instance.
 
 ## Article VIII
 
 ### Dissolution
 
-Upon dissolution of the Organization, the Board of Directors shall, after paying or making provision for payment of all liabilities of the Organization, including the costs and expenses of such dissolution, dispose of all the assets of the Organization exclusively for the exempt purposes of the Organization or distributed to an organization described in Section 501 (c)(3) or 170 (c)(2) of the Internal Revenue Code, 1986 or the corresponding provisions of any future federal law, as shall be selected by the last Board of Directors. None of the assets will be distributed to any officer or director of the Organization. Any such assets so disposed of shall be disposed of by, and in the manner designated by, the state court having jurisdiction over the matter.
+Upon dissolution of the Organization, the Board of Directors shall, after paying or making provision for payment of all liabilities of the Organization, including the costs and expenses of such dissolution, dispose of all the assets of the Organization exclusively for the exempt purposes of the Organization or distributed to an organization described in Section 501(c)(3) or 170(c)(2) of the Internal Revenue Code, 1986 or the corresponding provisions of any future federal law, as shall be selected by the last Board of Directors. None of the assets will be distributed to any officer or director of the Organization. Any such assets so disposed of shall be disposed of by, and in the manner designated by, the state court having jurisdiction over the matter.
 
 ## Article IX
 
 ### Statement of Nondiscrimination
 
-Notwithstanding any provision of these bylaws, the Organization shall not discriminate against any director, officer, employee, applicant, or participant on the basis of sex, race, color, ethnicity or national origin.
+Notwithstanding any provision of these bylaws, the Organization shall not discriminate against any director, officer, employee, applicant, or participant on the basis of race, color, religion, gender expression or identity, ethnicity, ancestry, national origin, sexual orientation, marital status, military or veteran status, age, or disability.
 
 ## Article X
 
