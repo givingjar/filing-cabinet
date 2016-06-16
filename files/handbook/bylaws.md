@@ -8,8 +8,10 @@
 
 2. **Location.** The principle place of business and administrative office shall be located at:
 
-       908 Grovenburg Rd.
-       Holt, Michigan 48842
+   ```
+   908 Grovenburg Rd.
+   Holt, Michigan 48842
+   ```
 
 3. **Duration.** The Organization shall have perpetual existence.
 
