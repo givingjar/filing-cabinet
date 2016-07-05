@@ -80,7 +80,7 @@ The Organization shall have no members.
 
    3. **Secretary.** The Secretary will keep minutes of all meetings of Members and of the Board of Directors, by the custodian of the corporate records, give all notices as are required by law or by these Bylaws, and generally perform all duties incident to the office of Secretary and any other duties as may be required by law, by the Bylaws, or which may be assigned by the Board of Directors.
 
-   4. **Treasurer** The treasurer will have charge and custody of all funds of this Organization, and will deposit the funds as required by the Board of Directors, keep and maintain adequate and correct accounts of the Organization’s properties and business transactions, and render reports and accountings to the Directors.  The Treasurer will perform all duties incident to the office of Treasurer, and any other duties that may be required by these Bylaws or prescribed by the Board of Directors.
+   4. **Treasurer.** The treasurer will have charge and custody of all funds of this Organization, and will deposit the funds as required by the Board of Directors, keep and maintain adequate and correct accounts of the Organization’s properties and business transactions, and render reports and accountings to the Directors.  The Treasurer will perform all duties incident to the office of Treasurer, and any other duties that may be required by these Bylaws or prescribed by the Board of Directors.
 
 ## Article VI
 
