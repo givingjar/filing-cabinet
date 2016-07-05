@@ -23,6 +23,7 @@ The Organization operates exclusively for charitable, religious, and educational
 
 1. Providing donors, volunteers, and businesses with new methods to discover nonprofit organizations.
 2. Creating new ways for donors, volunteers, and businesses to support nonprofit organizations.
+3. Educating the public about charitable opportunities within their fields of interest.
 
 ## Article III
 
