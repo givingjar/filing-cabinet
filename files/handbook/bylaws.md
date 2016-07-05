@@ -39,7 +39,7 @@ The Organization shall have no members.
 
 2. **Number.** The initial number of Directors shall be four (4) and may be increased or decreased without further amendment of these bylaws. At no time may the number of Directors be less than three (3).
 
-3. **Qualifications.** To serve as a Director, an individual shall have prior experience serving on a nonprofit board, general business or entrepreneurial experience, and shall have a desire to pay it forward with what they have, know, or have access to.
+3. **Qualifications.** To serve as a Director, an individual shall have prior experience serving on a nonprofit board or general business or entrepreneurial experience. Individuals must also be willing to pay it forward with what they have, know, or have access to.
 
 4. **Powers.** The Board of Directors shall have all corporate authority, except such powers as are otherwise provided in these bylaws and the laws of the State of Michigan, to conduct the affairs of the Organization in accordance with these bylaws. The Board of Directors may by resolution delegate to committees of their own number, or to officers of the Organization such powers as they deem appropriate.
 
