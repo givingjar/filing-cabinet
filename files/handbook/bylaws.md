@@ -4,7 +4,7 @@
 
 ### Name, Office, and Duration
 
-1. **Name.** The name of this organization (Organization) is Giving Jar.
+1. **Name.** The name of this organization (Organization) is Giving Jar, Inc.
 
 2. **Location.** The principle place of business and administrative office shall be located at:
 
