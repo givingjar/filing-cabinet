@@ -1,4 +1,4 @@
-# Giving Jar Bylaws
+# Bylaws of Giving Jar, Inc.
 
 ## Article I
 
