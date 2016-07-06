@@ -1,9 +1,9 @@
 # Board of Directors Resolution
 
 We, the undersigned, being all the directors of this Organization consent and agree that the following resolution was made
-at *3:00 PM*
-on *May 31, 2016*
-at *NEO Center, 934 Clark St., Lansing, MI 48906*.
+at `________` (time)
+on `__________` (date)
+at `________________________________________` (place).
 
 ## Resolution to Do X
 
