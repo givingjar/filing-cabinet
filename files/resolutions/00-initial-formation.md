@@ -1,6 +1,6 @@
 # Board of Directors Resolution
 
-We, the undersigned, being all of the initial members of the Board of Directors of Giving Jar, Inc. ("Organization"), do hereby authorize and take the following corporate actions, without a formal meeting, all effective as of July 8, 2016:
+We, the undersigned, being all of the initial members of the Board of Directors of Giving Jar, Inc. ("Organization"), do hereby authorize and take the following corporate actions, without a formal meeting, all effective as of *July 8, 2016*:
 
 ## Resolution No. 1
 
