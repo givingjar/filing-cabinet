@@ -78,18 +78,6 @@ The minutes of the governing board and all committees with board delegated power
 
 ## Article VI
 
-### Annual Statements
-
-Each director, principal officer, and member of a committee with governing board delegated powers shall annually sign a statement which affirms such person:
-
-1. Has received a copy of the conflicts of interest policy,
-
-2. Has read and understands the policy, and
-
-3. Has agreed to comply with the policy.
-
-## Article VII
-
 ### Periodic Reviews
 
 To ensure the Organization operates in a manner consistent with charitable purposes and does not engage in activities that could jeopardize its tax-exempt status, periodic reviews shall be conducted. The periodic reviews shall, at a minimum, include the following subjects:
@@ -98,7 +86,7 @@ To ensure the Organization operates in a manner consistent with charitable purpo
 
 2. Whether partnerships, joint ventures, and arrangements with management organizations conform to the Organization's written policies, are properly recorded, reflect reasonable investment or payments for goods and services, further charitable purposes and do not result in inurement, impermissible private benefit or in an excess benefit transaction.
 
-## Article VIII
+## Article VII
 
 ### Use of Outside Experts
 

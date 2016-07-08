@@ -4,7 +4,7 @@ We, the undersigned, being all of the initial members of the Board of Directors 
 
 ## Resolution No. 1
 
-**RESOLVED** that the Articles of Incorporation of Giving Jar, Inc. filed with the Indiana Secretary of State on June 17th, 2016, and the Certificate of Incorporation issued by the State of Michigan certifying the incorporation, be inserted in the Binder of the Organization.
+**RESOLVED** that the Articles of Incorporation of Giving Jar, Inc. filed with the State of Michigan on June 24th, 2016, and the Certificate of Incorporation issued by the State of Michigan certifying the incorporation, be inserted in the Binder of the Organization.
 
 ## Resolution No. 2
 
