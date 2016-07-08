@@ -35,7 +35,7 @@ The Organization shall have no members.
 
 ### Board of Directors
 
-1. **Election.** The Organization shall designate a Board of Directors who shall initially be appointed a majority of the incorporators to serve as Directors until such Director’s death, resignation, or removal as provided by these bylaws.
+1. **Election.** The Organization shall designate a Board of Directors who shall initially be appointed a majority of the incorporators to serve as Directors. At the first election of the Directors, two (2) Directors will be elected to serve a two (2) year term and two (2) Directors will be elected to serve a one (1) year term. At all elections held thereafter, Directors will be elected to serve a two (2) year term.
 
 2. **Number.** The initial number of Directors shall be four (4) and may be increased or decreased with amendment of these bylaws. At no time may the number of Directors be less than three (3).
 
@@ -53,7 +53,7 @@ The Organization shall have no members.
 
 9. **Quorum.** A quorum shall consist of a majority of the Directors. If at any meeting, less than a quorum is present, the majority may adjourn the meeting without further notice to the absent Director.
 
-10. **Vacancy.** Any vacancy occurring in the Board of Directors shall be filled by majority vote of the remaining Directors, even if less than a quorum. Each person so elected shall serve until the duration of the unexpired term, or until the next annual meeting.
+10. **Vacancy.** Any vacancy occurring in the Board of Directors or any Directorship to be filled by reason of an increase in the number of Directors will be filled by a majority vote of the Directors. A Director elected to fill a vacancy will be elected for the unexpired term of his or her predecessor in office.
 
 11. **Removal.** Any Director may be removed by unanimous consent of the remaining Directors.
 
@@ -133,19 +133,9 @@ Notwithstanding any provision of these bylaws, the Organization shall not discri
 
 ## Article X
 
-### Adoption, Amendments, and Annual Statements
+### Amendments
 
-1. **Adoption.** The bylaws shall be adopted by the Board of Directors by resolution and unanimous consent of all directors.
-
-2. **Amendment.** The Board of Directors shall have the power to amend, alter, make and repeal the bylaws of the Organization by resolution and majority consent of all directors.
-
-3. **Annual Statements.** Each director, principal officer, and member of a committee with governing board delegated powers shall annually sign a statement which affirms such person:
-
-   1. Has received a copy of the bylaws,
-
-   2. Has read and understands the bylaws, and
-
-   3. Has agreed to comply with the bylaws.
+The Board of Directors shall have the power to amend, alter, make, and repeal the bylaws of the Organization by resolution and majority consent of all directors.
 
 ## Source
 
