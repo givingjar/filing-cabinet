@@ -37,9 +37,9 @@ The Organization shall have no members.
 
 1. **Election.** The Organization shall designate a Board of Directors who shall initially be appointed a majority of the incorporators to serve as Directors until such Director’s death, resignation, or removal as provided by these bylaws.
 
-2. **Number.** The initial number of Directors shall be four (4) and may be increased or decreased without further amendment of these bylaws. At no time may the number of Directors be less than three (3).
+2. **Number.** The initial number of Directors shall be four (4) and may be increased or decreased with amendment of these bylaws. At no time may the number of Directors be less than three (3).
 
-3. **Qualifications.** To serve as a Director, an individual shall have prior experience serving on a nonprofit board or general business or entrepreneurial experience. Individuals must also be willing to pay it forward with what they have, know, or have access to.
+3. **Qualifications.** To serve as a Director, an individual shall have qualifications deemed acceptable by the Board of Directors. Individuals must also be willing to pay it forward with what they have, know, or have access to.
 
 4. **Powers.** The Board of Directors shall have all corporate authority, except such powers as are otherwise provided in these bylaws and the laws of the State of Michigan, to conduct the affairs of the Organization in accordance with these bylaws. The Board of Directors may by resolution delegate to committees of their own number, or to officers of the Organization such powers as they deem appropriate.
 
@@ -47,15 +47,15 @@ The Organization shall have no members.
 
 6. **Special Meetings.** Special meetings may be called by the President of the Organization or a majority of the Board of Directors. Persons authorized to call special meetings shall provide notice of the time and location of such meetings and state the purpose thereof, and no other matter shall be considered by the Board of Directors at such special meeting except upon unanimous vote of all Directors present.
 
-7. **Annual Meetings.** Directors may meet each year for the purpose of organization, the election of officers, and transaction of other business. The time and location of such meeting shall be noticed in writing or electronic communication.
+7. **Annual Meetings.** Directors shall meet each year for the purpose of organization, the election of officers, and transaction of other business. The time and location of such meeting shall be noticed in writing or electronic communication.
 
 8. **Notice and Waiver.** Notice of regular meetings and special meetings need not be in writing. Attendance at any meeting shall be considered waiver of the notice requirement thereof.
 
 9. **Quorum.** A quorum shall consist of a majority of the Directors. If at any meeting, less than a quorum is present, the majority may adjourn the meeting without further notice to the absent Director.
 
-10. **Vacancy.** Any vacancy occurring in the Board of Directors shall be filled by majority vote of the remaining Directors, though less than a quorum. Each person so elected shall serve until the duration of the unexpired term, or until the next annual meeting. The incorporating Board of Directors shall serve initial terms of three years unless otherwise asked and agreed upon by a majority of the Board of Directors.
+10. **Vacancy.** Any vacancy occurring in the Board of Directors shall be filled by majority vote of the remaining Directors, even if less than a quorum. Each person so elected shall serve until the duration of the unexpired term, or until the next annual meeting.
 
-11. **Removal.** Any Director may be removed by unanimous consent of the remaining Directors for failure to act in the best interests of the Organization, or lack of sympathy with the stated purpose of the Organization.
+11. **Removal.** Any Director may be removed by unanimous consent of the remaining Directors.
 
 12. **Compensation.** Directors shall receive no compensation for their service as Directors.
 
@@ -137,7 +137,7 @@ Notwithstanding any provision of these bylaws, the Organization shall not discri
 
 1. **Adoption.** The bylaws shall be adopted by the Board of Directors by resolution and unanimous consent of all directors.
 
-2. **Amendment.** The Board of Directors shall have the power to amend, alter, make and repeal the bylaws of the Organization by resolution and unanimous consent of all directors.
+2. **Amendment.** The Board of Directors shall have the power to amend, alter, make and repeal the bylaws of the Organization by resolution and majority consent of all directors.
 
 3. **Annual Statements.** Each director, principal officer, and member of a committee with governing board delegated powers shall annually sign a statement which affirms such person:
 
