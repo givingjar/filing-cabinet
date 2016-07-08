@@ -1,20 +1,14 @@
 # Board of Directors Resolution
 
-We, the undersigned, being all the directors of this Organization consent and agree that the following resolution was made
-at `________` (time)
-on `__________` (date)
-at `________________________________________` (place).
+We, the undersigned, being all of the initial members of the Board of Directors of Giving Jar, Inc. ("Organization"), do hereby authorize and take the following corporate actions, without a formal meeting, all effective as of July 8, 2016:
 
-## Resolution to Do X
+## Resolution No. #
 
-In accordance with State law and the bylaws of this Organization, by unanimous consent, the board of directors resolve that:
-
-1. X is done.
-
-We hereby consent to the adoption of the above resolution as if it was adopted at a regularly called meeting of the board of directors of this Organization.
+**RESOLVED** that X is done
 
 
-    Upon signing, this resolution is to be filed in the Organization's records.
+
+Upon signing, this resolution shall be filed in the Binder of the Organization.
 
 
     _________________________ _________________________ __________
