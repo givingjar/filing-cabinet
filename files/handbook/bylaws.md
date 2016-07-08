@@ -63,13 +63,13 @@ The Organization shall have no members.
 
 ### Officers
 
-1. **Designation of Officers.** The officers of the Organization shall be the President, Vice President, Secretary, and Treasurer, and they shall have authority to carry out the duties prescribed in these bylaws. The initial officers of the Organization shall be designated by the incorporators, and shall serve for three years. One person may hold more than one office, except no person may hold the office of President and Secretary.
+1. **Designation of Officers.** The officers of the Organization shall be the President, Vice President, Secretary, and Treasurer, and they shall have authority to carry out the duties prescribed in these bylaws. The initial officers of the Organization shall be designated by the incorporators, and shall serve for one (1) year. One person may hold more than one office, except no person may hold the office of President and Secretary.
 
 2. **Election and Term.** Officers of the Organization shall be reelected at the annual meeting of the Board of Directors, and shall serve for one year or until their replacements are elected and qualified.
 
-3. **Removal.** At any regular or special meeting, any officer may be removed by majority vote of the Board of Directors for failure to carryout the duties of the office as prescribed by these bylaws, conduct detrimental to the Organization, or for lack of sympathy with the stated purpose of the Organization. Any officer proposed to be removed is entitled to five (5) business days notice of the meeting at which the removal shall be considered and may address the Board of Directors at such meeting.
+3. **Removal.** At any regular or special meeting, any officer may be removed by majority vote of the Board of Directors. Any officer proposed to be removed is entitled to five (5) business days notice of the meeting at which the removal shall be considered and may address the Board of Directors at such meeting.
 
-4. **Compensation.** Officers of the Organization shall receive reasonable compensation as fixed by the Board of Directors. The fact that any officer is also a Director shall not preclude receipt of reasonable compensation for services provided under Article V of these bylaws.
+4. **Compensation.** Officers of the Organization may receive reasonable compensation if authorized by the Board of Directors. The fact that any officer is also a Director shall not preclude receipt of reasonable compensation for services provided under Article V of these bylaws.
 
 5. **Vacancy.** Vacancies, in any office for any reason, shall be filled by the Board of Directors for the unexpired term of office.
 
@@ -117,7 +117,7 @@ The Organization shall have no members.
 
 4. **Gifts.** The Directors, collectively or individually, any officer or designated agent may accept gifts, contributions, bequests, or devise of any property on behalf of the Organization.
 
-5. **Loans.** No Director, Officer or agent shall have the authority, on behalf of the Organization, to enter into a loan or any other contract of indebtedness except by unanimous vote in a resolution of the Board of Directors. The authority designated by this provision shall be limited to a single and specific instance.
+5. **Loans.** No Director, Officer or agent shall have the authority, on behalf of the Organization, to enter into a loan or any other contract of indebtedness except by majority vote in a resolution of the Board of Directors. The authority designated by this provision shall be limited to a single and specific instance.
 
 ## Article VIII
 
@@ -135,7 +135,7 @@ Notwithstanding any provision of these bylaws, the Organization shall not discri
 
 ### Amendments
 
-The Board of Directors shall have the power to amend, alter, make, and repeal the bylaws of the Organization by resolution and majority consent of all directors.
+The Board of Directors shall have the power to amend, alter, make, and repeal the bylaws of the Organization by a majority vote or unanimous resolution of all directors.
 
 ## Source
 
